@@ -1,0 +1,15 @@
+# Font style metadata
+name = "ucb"
+
+# Optional Google font URL
+google_fonts = "Cutive+Mono|Lora:400,700|Roboto:400,700"
+
+# Font families
+heading_font = "Helvetica Neue"
+body_font = "Helvetica Neue"
+nav_font = "Helvetica Neue"
+mono_font = "Helvetica Neue"
+
+# Font size
+font_size = "20"
+font_size_small = "16"
