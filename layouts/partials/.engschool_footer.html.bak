@@ -1,0 +1,187 @@
+<!-- FOOTER SECTION -->
+<div id="footer-section" class="footer-section background-gray-800">
+    <!-- FOOTER -->
+    <div id="footer-wrapper" class="section footer-wrapper ">
+        <div id="footer" class="footer container">
+            <div class="region region-footer region-four-columns block-column-container row">
+                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+                    <div id="block-bean-text-block-footer-links-1" class="block block-bean exbd-icon-style-default exbd-heading-align-default exbd-style-default exbd-font-scale-title-default exbd-font-scale-content-default exbd-menu-style-default exbd-block  block-bean-type-block block-bean-text-block-footer-links-1">
+                        <div class="block-inner-wrapper block-inner clearfix">
+                            <div class="content">
+                                <div class="entity entity-bean bean-block clearfix">
+                                    <div class="content">
+
+                                        <div class="field field-name-field-block-text field-type-text-long field-label-hidden">
+                                            <h2>Departments</h2>
+                                            <ul class="list-style-underline">
+                                                <li><a href="http://www.colorado.edu/aerospace/">Ann and H.J. Smead Aerospace Engineering Sciences</a></li>
+                                                <li><a href="http://www.colorado.edu/chbe/">Chemical and Biological Engineering</a></li>
+                                                <li><a href="http://www.colorado.edu/ceae/">Civil, Environmental &amp; Architectural Engineering</a></li>
+                                                <li><a href="http://www.colorado.edu/cs/">Computer Science</a></li>
+                                                <li><a href="http://www.colorado.edu/ecee/">Electrical, Computer &amp; Energy Engineering</a></li>
+                                                <li><a href="http://www.colorado.edu/mechanical/">Mechanical Engineering</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+                    <div id="block-bean-text-block-footer-links-2" class="block block-bean exbd-icon-style-default exbd-heading-align-default exbd-style-default exbd-font-scale-title-default exbd-font-scale-content-default exbd-menu-style-default exbd-block  block-bean-type-block block-bean-text-block-footer-links-2">
+                        <div class="block-inner-wrapper block-inner clearfix">
+                            <div class="content">
+                                <div class="entity entity-bean bean-block clearfix">
+                                    <div class="content">
+
+                                        <div class="field field-name-field-block-text field-type-text-long field-label-hidden">
+                                            <h2>Programs</h2>
+                                            <ul class="list-style-underline">
+                                                <li><a href="http://www.colorado.edu/amath/">Applied Mathematics</a></li>
+                                                <li><a href="https://www.colorado.edu/emp/">Engineering Management</a></li>
+                                                <li><a href="https://www.colorado.edu/physics/">Engineering Physics</a></li>
+                                                <li><a href="https://www.colorado.edu/eplus/">Engineering Plus</a></li>
+                                                <li><a href="https://www.colorado.edu/even/">Environmental Engineering</a></li>
+                                                <li><a href="https://www.colorado.edu/mse/">Materials Science &amp; Engineering</a></li>
+                                                <li><a href="http://tam.colorado.edu/">Technology, Arts &amp; Media </a></li>
+                                                <li><a href="https://www.colorado.edu/program/tcp/">Technology, Cybersecurity and Policy</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+                    <div id="block-bean-text-block-footer-links-3" class="block block-bean exbd-icon-style-default exbd-heading-align-default exbd-style-default exbd-font-scale-title-default exbd-font-scale-content-default exbd-menu-style-default exbd-block  block-bean-type-block block-bean-text-block-footer-links-3">
+                        <div class="block-inner-wrapper block-inner clearfix">
+                            <div class="content">
+                                <div class="entity entity-bean bean-block clearfix">
+                                    <div class="content">
+
+                                        <div class="field field-name-field-block-text field-type-text-long field-label-hidden">
+                                            <h2>Affiliates &amp; Partners</h2>
+                                            <ul class="list-style-underline">
+                                                <li><a href="https://www.colorado.edu/atlas/?">ATLAS Institute</a></li>
+                                                <li><a href="https://www.colorado.edu/bold/">BOLD Center</a></li>
+                                                <li><a href="https://www.coloradomesa.edu/engineering/partnership-program/index.html">Colorado Mesa University</a></li>
+                                                <li><a href="https://spacegrant.colorado.edu/">Colorado Space Grant Consortium</a></li>
+                                                <li><a href="https://www.colorado.edu/activelearningprogram/discovery-learning-research">Discovery Learning</a></li>
+                                                <li><a href="http://www.cuhonorsengineering.com/">Engineering Honors</a></li>
+                                                <li><a href="https://www.colorado.edu/engineeringleadershipprogram/">Engineering Leadership</a></li>
+                                                <li><a href="https://www.colorado.edu/emp/Engineering-Entrepreneurship-Certificate">E-Ship</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+                    <div id="block-bean-text-block-footer-links-4" class="block block-bean  block-bean-type-block block-bean-text-block-footer-links-4">
+                        <div class="block-inner-wrapper block-inner clearfix">
+                            <div class="content">
+                                <div class="entity entity-bean bean-block clearfix">
+                                    <div class="content">
+
+                                        <div class="field field-name-field-block-text field-type-text-long field-label-hidden">
+                                            <h2> </h2>
+                                            <ul class="list-style-underline">
+                                                <li><a href="https://www.colorado.edu/herbst/">Herbst Program for Engineering, Ethics &amp; Society</a></li>
+                                                <li><a href="https://www.colorado.edu/ideaforge/">Idea Forge</a></li>
+                                                <li><a href="https://itll.colorado.edu/">Integrated Teaching and Learning</a></li>
+                                                <li><a href="https://www.colorado.edu/engineering-international/">Global Engineering</a></li>
+                                                <li><a href="http://mcedc.colorado.edu/">Mortenson Center for Global Engineering</a></li>
+                                                <li><a href="https://www.colorado.edu/pre-engineering/">Pre-Engineering</a></li>
+                                                <li><a href="https://www.western.edu/paul-m-rady-school-computer-science-engineering">Western Colorado University</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- /FOOTER -->
+
+    <!-- FOOTER MENU -->
+    <div id="footer-menu-wrapper" class="section footer-menu-wrapper footer-menu-gray">
+        <div id="footer-navigation" class="container">
+            <div class="clearfix">
+                <nav id="footer-menu">
+                    <h2 class="element-invisible">Footer menu</h2>
+                    <ul id="footer-menu-links" class="links inline-menu clearfix">
+                        <li class="first"><a href="/engineering/employment" class="first">Employment</a></li>
+                        <li class=""><a href="/engineering/contact-us">Contact Us</a></li>
+                        <li class="last"><a href="/engineering/giving" class="last">Give</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </div>
+    <!-- /FOOTER MENU -->
+
+    <!-- SITE INFO -->
+    <div id="site-info-wrapper" class="section site-info-wrapper background-black">
+        <div id="site-info" class="site-info">
+            <div class="container">
+
+                <footer id="site-footer" class="row region region-site-info footer-2col">
+                    <div id="site-footer-content" class="col-lg-8 col-md-8">
+                        <div id="block-cu-site-info-site-info" class="block block-cu-site-info has-block-title block-cu-site-info-site-info">
+                            <div class="block-inner-wrapper block-inner clearfix">
+                                <h2 class="block-title"><a href="/engineering/">College of Engineering & Applied Science </a></h2>
+                                <div class="content">
+                                    <p>Phone: 303-492-5071<br />Email: <a href="mailto:cueng@colorado.edu">cueng@colorado.edu</a></p>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="block-bean-social-media-block" class="block block-bean has-block-title block-bean-type-social-links block-bean-social-media-block">
+                            <div class="block-inner-wrapper block-inner clearfix">
+                                <h2 class="block-title">Connect with Us </h2>
+                                <div class="content">
+                                    <div class="entity entity-bean bean-social-links clearfix">
+                                        <div class="content">
+                                            <div class="item-list">
+                                                <ul class="social-links social-links-horizontal-icons-only social-links-24 soc">
+                                                    <li class="first"><a href="http://www.facebook.com/cuengineering"><span class="socicon socicon-facebook soc-facebook" aria-hidden="true"></span><span class="social-links-text social-links-text-facebook element-invisible">Facebook</span></a></li>
+                                                    <li><a href="https://twitter.com/cuengineering"><span class="socicon socicon-twitter soc-twitter" aria-hidden="true"></span><span class="social-links-text social-links-text-twitter element-invisible">Twitter</span></a></li>
+                                                    <li><a href="https://www.youtube.com/user/cuengr"><span class="socicon socicon-youtube soc-youtube" aria-hidden="true"></span><span class="social-links-text social-links-text-youtube element-invisible">YouTube</span></a></li>
+                                                    <li><a href="https://www.linkedin.com/school/11358824"><span class="socicon socicon-linkedin soc-linkedin" aria-hidden="true"></span><span class="social-links-text social-links-text-linkedin element-invisible">LinkedIn</span></a></li>
+                                                    <li class="last"><a href="https://www.instagram.com/cuengineering/"><span class="socicon socicon-instagram soc-instagram" aria-hidden="true"></span><span class="social-links-text social-links-text-instagram element-invisible">Instagram</span></a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="cu-footer" class="col-lg-4 col-md-4">
+                        <p><a href="//www.colorado.edu"><img src="https://www.colorado.edu/engineering/profiles/express/themes/ucb/images/beboulder/be-boulder-white.svg" alt="University of Colorado Boulder" class="beboulder"/></a></p>
+                        <p><strong><a href="http://www.colorado.edu" class="cu-boulder-homepage-link">University of Colorado Boulder</a></strong><br />&copy; Regents of the University of Colorado<br />
+                            <span class="required-links"><a href="http://www.colorado.edu/about/privacy-statement">Privacy</a> &bull; <a href="http://www.colorado.edu/about/legal-trademarks">Legal &amp; Trademarks</a> &bull; <a href="http://www.colorado.edu/map">Campus Map</a></span></p>
+                    </div>
+                </footer>
+            </div>
+        </div>
+    </div>
+    <!-- /SITE INFO -->
+</div>
+
+</div>
+</div>
+<div id="cu_back_to_top"><a href="#page" title="Back to Top">Return to the top of the page</a></div>
+<script type="text/javascript" src="https://www.colorado.edu/engineering/sites/default/files/js/js_-eh9yRRRVz-zDhqiHLD2p4ID-0CQ1ERS9nNiq2iizkU.js"></script>
+<script type="text/javascript">
+    <!--//--><![CDATA[//><!--
+    jQuery(document).ready(function () { if (!Modernizr.svgasimg) {
+      jQuery("img#logo").attr("src", "https://www.colorado.edu/engineering/profiles/express/themes/cuspirit/logo.png");} });
+    //--><!]]>
+</script>
