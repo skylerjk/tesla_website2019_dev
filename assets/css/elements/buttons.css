@@ -1,9 +1,9 @@
 /** Global styles */
-html { box-sizing: border-box; }
+/* html { box-sizing: border-box; } */
 
-body { margin: 0; padding: 0; }
+/* body { margin: 0; padding: 0; } */
 
-.page { background: #fff; }
+/* .page { background: #fff; } */
 
 *, *:before, *:after { box-sizing: inherit; }
 

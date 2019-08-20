@@ -1,26 +1,16 @@
 {{ $current_page := . }}
+<!-- ​<nav class="navbar compensate-for-scrollbar ucb-brand-bar ucb-brand-bar-black">
+	<a href="https://www.colorado.edu" class="ucb-home-link">
+		<img class="ucb-logo" src="https://cdn.colorado.edu/static/brand-assets/live/images/cu-boulder-logo-text-white.svg" alt="University of Colorado Boulder">
+	</a>
+	<a class="ucb-search-link" href="https://www.colorado.edu/search">
+		<img class="ucb-search" alt="Search Colorado.edu" src="https://cdn.colorado.edu/static/brand-assets/live/images/search-white.svg">
+	</a>
+</nav> -->
 ​
 <nav class="navbar navbar-light fixed-top navbar-expand-lg py-0 compensate-for-scrollbar" id="navbar-main">
-​
-  <div class="container flex-column">
-​
-      <div class="container" id="cu-brand-bar">
-          <head>
-          	<!-- <script type="text/javascript" src="https://cdn.colorado.edu/static/brand-assets/live/js/brand-bar.js" id="ucb-brand-bar-embed" data-color="black"></script> -->
-          	<link href="https://cdn.colorado.edu/static/brand-assets/live/css/brand-bar.css" rel="stylesheet" type="text/css">
-          </head>
-​
-          <div class="ucb-brand-bar ucb-brand-bar-black">
-          	<a href="https://www.colorado.edu" class="ucb-home-link">
-          		<img class="ucb-logo" src="https://cdn.colorado.edu/static/brand-assets/live/images/cu-boulder-logo-text-white.svg" alt="University of Colorado Boulder">
-          	</a>
-          	<a class="ucb-search-link" href="https://www.colorado.edu/search">
-          		<img class="ucb-search" alt="Search Colorado.edu" src="https://cdn.colorado.edu/static/brand-assets/live/images/search-white.svg">
-          	</a>
-          </div>
-      </div>
-​
-      <div class="container flex-row">
+​​
+      <div class="container">
         <!-- Brand and toggle get grouped for better mobile display -->
           <a class="navbar-brand" href="{{ "/" | relLangURL }}">
             {{- if site.Params.logo -}}
@@ -122,11 +112,7 @@
 ​
             {{ if site.Params.search.engine }}
             <li class="nav-item">
-              <!-- <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a> -->
-              <a class="nav-link ucb-search-link" href="https://www.colorado.edu/search"><i class="fas fa-search" aria-hidden="true"></i>
-                <!-- <img class="ucb-search" alt="Search Colorado.edu" width="20" height="20"
-                     src="https://cdn.colorado.edu/static/brand-assets/live/images/search-white.svg"> -->
-              </a>
+              <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
             </li>
             {{ end }}
 ​
@@ -154,8 +140,6 @@
             {{ end }}
 ​
           </ul>
-        </div><!-- /.navbar-collapse -->
-    </div>
-​
+        </div><!-- /.navbar-collapse -->​
   </div><!-- flex-column container -->
 </nav>

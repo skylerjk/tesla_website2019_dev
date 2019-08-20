@@ -107,8 +107,12 @@ zoom = 15
 # Load CSS and JS plugins
 #   E.g. To load `/assets/css/custom.css`, set `plugins_css = ["custom"]`.
 #   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
-plugins_css = ["ucb", "ucb-styles", "elements/branding", 
-  "elements/colors", "elements/buttons"]
+# TESLaCU-specific note:
+#   ucb.css contains a hard-copy of everything in the elements folder, so you
+#   must either include all elements/*.css and ucb-styles.css, or only ucb.css.
+#   However, ucb-brand-bar-footer.css comes from the brand-bar javascript, and
+#   is not a part of ucb.css
+plugins_css = ["ucb-brand-bar-footer", "elements/colors"] # "elements/colors", "elements/buttons", "elements/grid", "elements/type
 plugins_js  = []
 
 ############################
@@ -173,7 +177,7 @@ sharing = true
   #   0: No search engine
   #   1: Academic (built-in)
   #   2: Algolia (https://www.algolia.com)
-  engine = 0
+  engine = 1
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
